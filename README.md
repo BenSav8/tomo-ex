@@ -9,7 +9,7 @@ this is a custom font for trollbox and rmtrollbox, it fixes inconsistencies and 
 - if you use [TBJB](https://github.com/BenSav8/tbjb-tampermonkey):
   - download the tomo-ex.js file from this repository
   - do /store then add it as an addon
-- if you're on normal trollbox
+- if you use neither
   - open devtools (inspect element)
   - go on console
   - paste the contents of tomo-ex.js
